@@ -10,9 +10,7 @@ const ContactForm = () => {
         setIsSubmitting(true)
     }
   return (
-    <div>
-      
-    </div>
+    <div>ContactForm</div>
   )
 }
 
